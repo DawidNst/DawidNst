@@ -1,4 +1,4 @@
-                    ### Hi, i'm Dawid 👋
+                    Hi, i'm Dawid  👋
 
                                                  Junior Java Developer from Poland
 
