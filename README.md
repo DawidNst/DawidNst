@@ -1,6 +1,6 @@
                     
 		    
-		    Hi, i'm Dawid  👋
+		  Hello, dear friend !  👋
 		    
 		    
 
@@ -15,5 +15,5 @@
 * ⚡ Cryptocurrencies, charts, stock market, world economy
 
            
-	   I focus on development and commitment.
+	                                          I focus on development and commitment.
    
