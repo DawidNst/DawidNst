@@ -9,7 +9,7 @@
 
 
 * 🔭 Artificial intelligence technologies.
-* 🌱 I’m currently learning  Git,Spring, Spring Boot, Hibernate, JDBC, IntelliJ, SpringWEB, REST API, Gradle, Maven, JUnit5, MySQL, WebDriver, Jira, Thymeleaf, Java 17, Mockito
+* 🌱 I’m currently learning  Git,Spring, Spring Boot, Hibernate, JDBC, IntelliJ, SpringWEB, REST API, Gradle, Maven, JUnit5, MySQL, WebDriver,MongoDB, Jira, Thymeleaf, Java 17, Mockito
 * 💬 Ask me about DawidNiesterczuk@gmail.com
 * 😄 Relax: CarpFishing,Gym
 * ⚡ Cryptocurrencies, charts, stock market, world economy
